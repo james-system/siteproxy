@@ -116,10 +116,4 @@ git clone https://your-proxy-domain.name/user-your-password/https/github.com/the
 ```
 <br />
 
-### 感谢
-www.netptop.com默认主页由telgram网友SenZyo设计, 感谢贡献！
-
-### 联系方式
-Telegram群: @siteproxy
-<br />
-email: netptop@gmail.com
+### 
